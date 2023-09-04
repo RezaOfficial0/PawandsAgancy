@@ -1,0 +1,43 @@
+.Whyus {
+        background-color: white;
+        color:black;
+        margin-bottom: 0px;
+        margin-top: 50px;
+}
+.whyus-head hr{
+        width: 850px;
+        margin-left: auto;
+        margin-right: auto;
+        border: green solid 3px;
+}
+.whyus-head{
+        text-align: center;
+        margin-bottom: -100px;
+}
+.Whyus h1 {
+        text-transform: capitalize;
+}
+.Whyus img {
+        color: green;
+        width: 75px;
+        border: solid 1px green;
+        border-radius: 50%;
+        padding: 15px;
+}
+
+.Whyus .col-3 .exe-img{
+      text-align: center;
+      margin-left: 200px;
+   
+        }
+        .Whyus .col-3 .exe-head{
+                text-align: center;
+                  }
+                  @media only screen and (min-width: 320px) and (max-width: 500px) {
+                        .Whyus{
+                                display: none;
+                        }
+                  }
+
+
+

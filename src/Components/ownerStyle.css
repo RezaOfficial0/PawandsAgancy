@@ -1,0 +1,51 @@
+.Owner {
+       margin-top: 150px;
+       margin-bottom: 150px;
+        background-color: white;
+        color: black;
+}
+.Owner span {
+color: gold;
+}
+.Owner h4 {
+        opacity: 0.7;
+        margin-top: 100px;
+        max-width: 575px;
+}
+.Owner img {
+        width: 400px;
+        margin-left: -140px;
+        margin-top: -90px;
+}
+.Owner #owner-img {
+        margin-left: 150px;
+        border-left: solid gold 15px;
+        border-bottom: solid gold 15px;
+   
+}
+
+
+@media only screen and (min-width: 320px) and (max-width: 500px) {
+  .Owner #owner-img {
+    margin-left: 50px;
+}
+.Owner h1 {
+display: none;
+}
+.Owner .sign {
+display: none;
+}
+.Owner img {
+  width: 300px;
+  margin-left:100px;
+  margin-left:0;
+  margin-top: 20px;
+}
+.Owner h4 {
+display: none;
+
+}
+
+
+}
+
