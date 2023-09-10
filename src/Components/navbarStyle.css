@@ -8,6 +8,20 @@
   overflow: hidden;
   background-color: #195036;
 }
+.Navbar .icon {
+display: none;
+}
+@media screen and (max-width: 600px) {
+.Login-btn {
+  display: none;
+}
+.left {
+  display: none;
+}
+a {
+  width: 120px;
+}
+}
 
 li {
   float: right;
@@ -41,8 +55,4 @@ li .Login-btn:hover {
   opacity: 0.6;
 }
 
-@media screen and (max-width: 600px) {
-  .Navbar{
-    display: none;
-  }
-}
+

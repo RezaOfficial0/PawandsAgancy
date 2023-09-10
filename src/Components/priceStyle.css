@@ -1,0 +1,12 @@
+.card-img-top{
+        width: 10%;
+}
+.btn-primary{
+        background-color: rgb(38, 136, 54);
+        border-color:rgb(38, 136, 54) ;
+}
+.btn-primary:hover{
+      opacity: 0.6;
+      background-color: rgb(38, 136, 54);
+      border-color:rgb(38, 136, 54) ;
+}

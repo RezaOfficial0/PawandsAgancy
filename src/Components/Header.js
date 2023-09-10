@@ -1,12 +1,11 @@
 import React from "react";
 import "./headerStyle.css";
-import Navbar from "../Components/Navbar";
 import arrow from "../assents/arrow.png";
 import Headimg from "../assents/head11.jpg";
 function Header() {
   return (
     <div className="Header">
-      <Navbar />
+     
       <div className="Header1">
         <div className="header1">
           <h1>Pawnds </h1>
