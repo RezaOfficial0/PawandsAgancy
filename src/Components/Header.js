@@ -8,7 +8,7 @@ function Header() {
      
       <div className="Header1">
         <div className="header1">
-          <h1>Pawnds </h1>
+          <h1>Pawands </h1>
           <h2>Marketing Agancy</h2>
           <img src={arrow}></img>
         </div>
