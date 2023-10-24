@@ -2,6 +2,7 @@ import React from 'react'
 import Header from '../Components/Header'
 import Whyus from '../Components/WhyUs'
 import Prices from '../Components/Prices'
+import Aboutusec from '../Components/AboutusSec'
 import '../Pages/homeStyle.css'
 import '../Tools/Animations'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -13,7 +14,9 @@ function Home() {
     <div className='Home-White'>
     <Whyus/>
     <Prices />
+    <Aboutusec/>
     </div>
+    
     </div>
     </>
   )

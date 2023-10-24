@@ -4,6 +4,7 @@ import Navbar from '../Components/Navbar'
 import Home from './Home'
 import Founder from './Founder'
 import Footer from '../Components/Footer'
+
 function App() {
   return (
     <div>

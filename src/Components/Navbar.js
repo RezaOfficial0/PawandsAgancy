@@ -10,7 +10,6 @@ function Navbar() {
 
   <li><a className="Login-btn" href="/Login">Login</a></li>
   <li><a href="/Founder">The Founder</a></li>
-  <li ><a href="#about">About Us</a></li>
   <li ><a href="#contact">Contact Us</a></li>
   <li ><a href="#Company">Company</a></li>
   
