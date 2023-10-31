@@ -13,7 +13,7 @@ function Footer() {
         <button type='Submit'>Subscribe</button>
        </div>
        <hr className='footer-hr'></hr>
-       <h5>This Website Created by <a href='https://atrizatalebi.web.app'>Riza Talebi</a></h5>
+       <h5>This Website Created by <a href='https://atrizatalebi.web.app'>Riza Talebi</a> & <a href='https://aradofficiall.web.app/'>Arad Zeinalifarid</a></h5>
     </div>
   )
 }

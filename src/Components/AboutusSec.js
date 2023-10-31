@@ -39,8 +39,8 @@ function AboutusSec() {
           Our core expertise lies in crafting custom-tailored website marketing
           solutions that cater to your unique needs. Whether you're a startup
           seeking to make a mark, an established business aiming to expand your
-          digital footprint, or anything in between, we've got you covered. Our
-          services include:
+          digital footprint, or anything in between, we've got you covered.
+          
         </p>
         <div className="container">
           <div className="row">
