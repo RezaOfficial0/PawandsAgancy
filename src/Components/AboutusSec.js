@@ -50,6 +50,8 @@ function AboutusSec() {
             <div className="col-4">Social Media Marketing</div>
             <div className="col-4">Web Design and Development</div>
             <div className="col-4">Analytics and Reporting</div>
+            <div className="col-4">Game Developing</div>
+            <div className="col-4">3D & 2D Animations</div>
           </div>
         </div>
       </div>
