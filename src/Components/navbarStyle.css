@@ -1,0 +1,28 @@
+.Navbar ul {
+  background-color: #195036;
+  list-style-type: none;
+  margin-top: 50px;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #195036;
+}
+
+li {
+  float: left;
+}
+li img {
+  width: 190px;
+}
+li a {
+  font-size: 30px;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+

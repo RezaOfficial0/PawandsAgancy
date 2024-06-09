@@ -1,0 +1,125 @@
+.Aboutus .head-05 {
+  text-align: center;
+  margin-top: 150px;
+}
+.Aboutus .head-05 h1 {
+  color: rgb(11, 95, 11);
+  font-weight: bolder;
+  font-size: 70px;
+}
+
+.Aboutus .head-05 p {
+  font-weight: bolder;
+  font-size: 20px;
+  max-width: 800px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Aboutus .head-15 .left {
+  margin-left: 250px;
+  margin-top: 150px;
+  text-align: left;
+  float: left;
+}
+.Aboutus .head-15 .left h1 {
+  color: rgb(11, 95, 11);
+  font-weight: bolder;
+  font-size: 70px;
+}
+.Aboutus .head-15 .left p {
+  font-weight: bolder;
+  font-size: 20px;
+  max-width: 800px;
+}
+
+.Aboutus .head-15 .right {
+  float: right;
+  margin-right: 250px;
+  margin-top: 125px;
+}
+.Aboutus .head-15 .right img {
+  border: solid gold 8px;
+  border-radius: 20px;
+  border-right: 0;
+  border-bottom: 0;
+}
+
+.Aboutus .Section-2 {
+  margin-top: 650px;
+  text-align: center;
+}
+.Aboutus .Section-2 h1 {
+  color: rgb(11, 95, 11);
+  font-weight: bolder;
+  font-size: 70px;
+}
+.Aboutus .Section-2 p {
+  font-weight: bolder;
+  font-size: 20px;
+  max-width: 1000px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Aboutus .Section-2 .container .row {
+  margin-left: 150px;
+}
+.Aboutus .Section-2 .container .row .col-4 {
+  padding: 15px;
+  border: solid 2px gold;
+  border-radius: 45px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 25px;
+}
+.Aboutus .Section-2 .container .row .col-4:hover {
+     opacity: 0.6;
+      }
+      @media only screen and (min-width: 320px) and (max-width: 500px) {
+           .companies img{
+               width: 150px;
+          
+             }
+              
+              .Aboutus .head-15  {
+               display: none;
+              }
+            
+              
+              .Aboutus .Section-2 {
+                margin-top: 150px;
+                text-align: center;
+              }
+              .Aboutus .Section-2 h1 {
+                color: rgb(11, 95, 11);
+                font-weight: bolder;
+                font-size: 50px;
+              }
+              .Aboutus .Section-2 p {
+                font-weight: bolder;
+                font-size: 20px;
+                max-width: 300px;
+                text-align: center;
+                margin-left: auto;
+                margin-right: auto;
+              }
+              
+              .Aboutus .Section-2 .container .row {
+               display:flex;
+               margin-left: -20px;
+              }
+              .Aboutus .Section-2 .container .row .col-4 {
+                padding: 15px;
+            border: solid 2px gold;
+             border-radius: 45px;
+              margin-left: 0px;
+               margin-right: 0px;
+                margin-bottom: 25px;
+         
+              }
+             
+           
+      }
